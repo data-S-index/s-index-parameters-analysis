@@ -61,4 +61,4 @@ This work is licensed under
 Use the [GitHub issues](https://github.com/data-S-index/s-index-parameters-analysis/issues) for submitting feedback or making suggestions. You can also work the repository and submit a pull request with suggestions.
 
 ## 📝 How to cite
-If you use this code, please follow the citation instructions included in the [CITATION.cff](CITATION.cff) files
+If you use this code, please follow the citation instructions included in the [CITATION.cff](CITATION.cff) file.
