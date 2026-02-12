@@ -14,7 +14,7 @@
 [license-url]: https://github.com/data-S-index/s-index-parameters-analysis/blob/master/LICENSE
 
 ## ℹ️ About
-This repository contains the Jupyter notebook we developed to do various parameters analysis included in our NIH S-index Challenge Phase 2 proposal. We refer to the [S-index Hub](https://github.com/data-S-index/hub) for more information about the S-index and the Challenge.
+This repository contains the Jupyter notebook we developed to do various analysis of the parameters and behavior of our proposed S-index. The outputs were included in our NIH S-index Challenge Phase 2 proposal. We refer to the [S-index Hub](https://github.com/data-S-index/hub) for more information about our S-index and the Challenge.
 
 ## 🚀 Using the Jupyter notebook
 
