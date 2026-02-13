@@ -1,0 +1,22 @@
+title: s-index-parameters-analysis
+authors:
+  - given-names: Bhavesh
+    family-names: Patel
+    affiliation: FAIR Data Innovations Hub, California Medical Innovations Institute
+cff-version: 1.2.0
+message: If you use this software, please cite it using the metadata from this file.
+type: software
+abstract: This repository contains the Jupyter notebook we developed to do
+  various analysis of the parameters and behavior of our proposed S-index. The
+  outputs were included in our NIH S-index Challenge Phase 2 proposal. We refer
+  to the [S-index Hub](https://github.com/data-S-index/hub) for more information
+  about our S-index and the Challenge.
+keywords:
+  - S-index
+  - Data sharing
+  - Data reuse
+  - FAIR
+  - Citations
+  - Mentions
+license: MIT
+repository-code: https://github.com/data-S-index/s-index-parameters-analysis
