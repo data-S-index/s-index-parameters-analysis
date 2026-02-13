@@ -6,11 +6,12 @@ authors:
 cff-version: 1.2.0
 message: If you use this software, please cite it using the metadata from this file.
 type: software
-abstract: This repository contains the Jupyter notebook we developed to do
-  various analysis of the parameters and behavior of our proposed S-index. The
-  outputs were included in our NIH S-index Challenge Phase 2 proposal. We refer
-  to the [S-index Hub](https://github.com/data-S-index/hub) for more information
-  about our S-index and the Challenge.
+abstract: >-
+  This repository contains the Jupyter notebook we developed to do various
+  analysis of the parameters and behavior of our proposed S-index. The outputs
+  were included in our NIH S-index Challenge Phase 2 proposal. We refer to the
+  [S-index Hub](https://github.com/data-S-index/hub) for more information about
+  our S-index and the Challenge.
 keywords:
   - S-index
   - Data sharing
@@ -20,4 +21,6 @@ keywords:
   - Mentions
 license: MIT
 repository-code: https://github.com/data-S-index/s-index-parameters-analysis
-version: v1.0.0
+version: 1.0.0
+doi: 10.5281/zenodo.18627001
+date-released: '2026-02-13'
