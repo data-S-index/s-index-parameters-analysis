@@ -1,5 +1,5 @@
 {
-  "name": "S-index Parameters Analysis Notebopk",
+  "name": "S-index Parameters Analysis",
   "@context": "https://w3id.org/codemeta/3.0",
   "author": [
     {
@@ -27,6 +27,7 @@
   "dateCreated": "2026-01-29",
   "description": "This repository contains the Jupyter notebook we developed to do various analysis of the parameters and behavior of our proposed S-index. The outputs were included in our NIH S-index Challenge Phase 2 proposal. We refer to the [S-index Hub](https://github.com/data-S-index/hub) for more information about our S-index and the Challenge.",
   "developmentStatus": "active",
+  "downloadUrl": "https://github.com/data-S-index/s-index-parameters-analysis/releases/tag/untagged-d3364425acb14f1b85a6",
   "issueTracker": "https://github.com/data-S-index/s-index-parameters-analysis/issues",
   "keywords": [
     "S-index",
@@ -40,5 +41,7 @@
   "programmingLanguage": [
     "Jupyter Notebook"
   ],
+  "schema:releaseNotes": "## What's Changed\n* feat: ✨ Add code metadata files by @codefair-io[bot] in https://github.com/data-S-index/s-index-parameters-analysis/pull/2\n\n## New Contributors\n* @codefair-io[bot] made their first contribution in https://github.com/data-S-index/s-index-parameters-analysis/pull/2\n\n**Full Changelog**: https://github.com/data-S-index/s-index-parameters-analysis/commits/v1.0.0",
+  "version": "v1.0.0",
   "type": "SoftwareSourceCode"
 }

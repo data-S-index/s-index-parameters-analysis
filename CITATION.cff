@@ -1,4 +1,4 @@
-title: S-index Parameters Analysis Notebopk
+title: S-index Parameters Analysis
 authors:
   - given-names: Bhavesh
     family-names: Patel
@@ -20,3 +20,4 @@ keywords:
   - Mentions
 license: MIT
 repository-code: https://github.com/data-S-index/s-index-parameters-analysis
+version: v1.0.0
