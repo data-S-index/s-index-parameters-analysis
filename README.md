@@ -5,6 +5,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+[![DOI][zenodo-badge]][zenodo-doi]
 
 [stars-shield]: https://img.shields.io/github/stars/data-S-index/s-index-parameters-analysis.svg?style=flat-square
 [stars-url]: https://github.com/data-S-index/s-index-parameters-analysis/stargazers
@@ -12,6 +13,8 @@
 [issues-url]: https://github.com/data-S-index/s-index-parameters-analysis/issues
 [license-shield]: https://img.shields.io/github/license/data-S-index/s-index-parameters-analysis.svg?style=flat-square
 [license-url]: https://github.com/data-S-index/s-index-parameters-analysis/blob/master/LICENSE
+[zenodo-badge]: https://zenodo.org/badge/DOI/10.5281/zenodo.18627001.svg
+[zenodo-doi]: https://doi.org/10.5281/zenodo.18627001
 
 ## ℹ️ About
 This repository contains the Jupyter notebook we developed to analyze the parameters and behavior of our proposed S-index. The outputs were included in our NIH S-index Challenge Phase 2 proposal. We refer to the [S-index Hub](https://github.com/data-S-index/hub) for more information about our S-index and the Challenge.
