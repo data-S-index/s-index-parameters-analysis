@@ -34,15 +34,15 @@ cd .s-index-parameters-analysis
 
 ### Setup conda environment
 ```sh
-$ conda env create -f environment.yml
+conda env create -f environment.yml
 ```
 
 ### Setup kernell for Jupyter lab
 ```sh
-$ conda activate s-index-parameters-analysis
-$ conda install ipykernel
-$ ipython kernel install --user --name=s-index-parameters-analysis
-$ conda deactivate
+conda activate s-index-parameters-analysis
+conda install ipykernel
+ipython kernel install --user --name=s-index-parameters-analysis
+conda deactivate
 ```
 ### Launch Jupyter lab
 Launch Jupyter lab and naviguate to open the main.ipynb file. Make sure to change the kernel to the one created above (e.g., see [here](https://doc.cocalc.com/howto/jupyter-kernel-selection.html#cocalc-s-jupyter-notebook)). 
