@@ -1,5 +1,5 @@
 {
-  "name": "s-index-parameters-analysis",
+  "name": "S-index Parameters Analysis Notebopk",
   "@context": "https://w3id.org/codemeta/3.0",
   "author": [
     {
@@ -11,6 +11,11 @@
       "id": "https://orcid.org/0000-0002-0307-262X",
       "givenName": "Bhavesh",
       "type": "Person"
+    },
+    {
+      "roleName": "Project lead",
+      "schema:author": "https://orcid.org/0000-0002-0307-262X",
+      "type": "Role"
     },
     {
       "roleName": "Project lead",
